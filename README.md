@@ -1,7 +1,24 @@
-## Hi there, I'm Audrey Gaborit ! 👋
+![I’m](https://github.com/user-attachments/assets/c6a32d1a-8bd9-4fa6-b816-94f6a70ab600)
 
+<h1 align="center">Hi there, I'm Audrey Gaborit ! 👋</h1>
+
+- 👩‍💻 **About Me** : I'm a student fullstack developer at Registresecurite.com, and I'm studying at Sup de Vinci in Nantes. 
+- 💡 **Motivation** : Create, innovate and learn. 🚀
+- 📫 **Contact me** : You can reach me on LinkedIn!
+
+<h1 align="center">My skills</h1>
+<div align="center">
+  <img src='https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png' alt='html' height='40'>
+  <img src='https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-programming-langugae-language-pack-logos-icons-1175237.png' alt='css' height='40' hspace="5">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png' alt='javascript' height='40' hspace="5">
+  <img src='https://symfony.com/logos/symfony_white_03.png' alt='symfony' height='40' hspace="5">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png' alt='vuejs' height='40' hspace="5" hspace="5">
+  <img src='https://isagebrum.com/images/technology/laravel-image.svg' alt='laravel' height='40' hspace="5">
+  <img src='https://cdn.iconscout.com/icon/free/png-256/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175240.png" alt='c#' height='40' hspace="5">
+</div>
 <!--
 **A-Gaborit/a-gaborit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,6 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm a student Full Stack Developer (Web/Mobile)
 
