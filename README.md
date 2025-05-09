@@ -1,4 +1,4 @@
-![I’m](https://github.com/user-attachments/assets/0da22322-c5cc-495f-97e5-dd13146dbb47)
+![baniere github](https://github.com/user-attachments/assets/da405af2-8adf-4482-985f-0b5b6bd68fb0)
 
 <h1 align="center">Hi there, I'm Audrey Gaborit ! 👋</h1>
 
